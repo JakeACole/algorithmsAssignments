@@ -1,6 +1,6 @@
 # Algorithms Assignments
 
-A few samples of C++ code that I had to write for my Algorithms course. 
+A few samples of C++ code that I wrote for my Algorithms course. 
 
 
 
